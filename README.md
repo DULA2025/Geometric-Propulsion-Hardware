@@ -64,6 +64,8 @@ module pie_geometric_anchor() {
 // Generate the manifest
 pie_geometric_anchor();
 
+
+```
 ---
 
 2. Dimensional Descent Verification (SageMath)
