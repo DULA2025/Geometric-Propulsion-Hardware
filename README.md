@@ -68,7 +68,7 @@ pie_geometric_anchor();
 ```
 ---
 
-##2. Dimensional Descent Verification (SageMath)**
+## **2. Dimensional Descent Verification (SageMath)**
 
 ```
 from sage.all import *
