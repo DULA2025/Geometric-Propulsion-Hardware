@@ -1,4 +1,4 @@
-# 🚀 Geometric Propulsion Hardware: Prime Inertia Engine (PIE)
+# 🚀 Geometric Propulsion Hardware: Prime Inertia Engine
 
 ## **Overview**
 The **Prime Inertia Engine (PIE)** is a propellantless propulsion system that generates thrust by manipulating the **28.87 Hz Spectral Buffer**. By aligning a 3D physical manifold with the 24-dimensional unimodularity of the Leech lattice, the device induces **Ricci Flow Surgery** on the local arithmetic vacuum, allowing for momentum transfer without traditional reaction mass.
